@@ -24,7 +24,7 @@ Now you should have the helloworld-app visible in your spotify application.
 
     `git clone git@github.com:CreunaAB/SpotifyApp2012.git .`
 
-* Make sure the root folder of your apps are directly under your main spotifu folder, I.E. `c:\My Documents\Spotify\HelloWorld`
+* Make sure the root folder of your apps are directly under your main spotify folder, I.E. `c:\My Documents\Spotify\HelloWorld`
 * Start the Spotify desktop client
 * In the search input write: `spotify:app:helloworld`, where "helloworld" is the bundle identifier found in the applications `manifest.json`
 
