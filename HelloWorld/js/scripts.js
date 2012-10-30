@@ -4,10 +4,10 @@ var sp = getSpotifyApi(1), // Getthe spotify api
 
 // Listen to the eventlisteners indicating change of tab
 models.application.observe(models.EVENT.ARGUMENTSCHANGED, function (e) {
-  var b = document.getElementById('bodu'), // Get the 'bodu' element (<body>)
+  var b = document.getElementById('head'), // Get the 'bodu' element (<head>)
       arg = models.application.arguments[0]; // Get the values of the tabs
 
-  // Change class on the body-element
+  // Change class on the head-element
   switch (arg) {
     case 'Blue':
       b.setAttribute('class', 'bg1');
