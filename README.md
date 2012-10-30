@@ -6,8 +6,7 @@ Tech Challenge 2012
 Getting started
 ---------------
 
-OSX
----
+#### OSX
 
 * Clone repo into `~/Spotify`:
 
@@ -19,8 +18,7 @@ OSX
 
 Now you should have the helloworld-app visible in your spotify application.
 
-Windows
--------
+#### Windows
 
 * Clone repo into `c:\My Documents\Spotify`:
 
