@@ -12,7 +12,7 @@ Getting started
 
     `git clone git@github.com:CreunaAB/SpotifyApp2012.git .`
 
-* Make sure the root folder of your apps are directly under your main spotifu folder, I.E. `~/Spotify/HelloWorld`
+* Make sure the root folder of your apps are directly under your main spotify folder, I.E. `~/Spotify/HelloWorld`
 * Start the Spotify desktop client
 * In the search input write: `spotify:app:helloworld`, where "helloworld" is the bundle identifier found in the applications `manifest.json`
 
