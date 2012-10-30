@@ -10,7 +10,7 @@ Getting started
 
 * Clone repo into `~/Spotify`:
 
-    git clone git@github.com:CreunaAB/SpotifyApp2012.git .
+    `git clone git@github.com:CreunaAB/SpotifyApp2012.git .`
 
 * Make sure the root folder of your apps are directly under your main spotifu folder, I.E. `~/Spotify/HelloWorld`
 * Start the Spotify desktop client
@@ -22,7 +22,7 @@ Now you should have the helloworld-app visible in your spotify application.
 
 * Clone repo into `c:\My Documents\Spotify`:
 
-    git clone git@github.com:CreunaAB/SpotifyApp2012.git .
+    `git clone git@github.com:CreunaAB/SpotifyApp2012.git .`
 
 * Make sure the root folder of your apps are directly under your main spotifu folder, I.E. `c:\My Documents\Spotify\HelloWorld`
 * Start the Spotify desktop client
